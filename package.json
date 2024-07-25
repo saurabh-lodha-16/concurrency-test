@@ -4,7 +4,8 @@
   "description": "Concurrency Test",
   "main": "index.js",
   "scripts": {
-    "start": "node index.js"
+    "concurrent": "node concurrent.js",
+    "sequentially": "node sequentially.js"
   },
   "author": "Saurabh Lodha",
   "license": "MIT",
