@@ -1,0 +1,14 @@
+{
+  "name": "concurrency-test",
+  "version": "1.0.0",
+  "description": "Concurrency Test",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "Saurabh Lodha",
+  "license": "MIT",
+  "dependencies": {
+    "bluebird": "^3.7.2"
+  }
+}
